@@ -84,7 +84,9 @@ h2 {
 	height: 100px;
 	display: inline-block;
 	background-color: rgb(204,204,204);
-	margin: 10px;
+	margin: 9px;
+	font-size: 0px;
+
 }
 .border1 {
 	border: 1px solid black;
@@ -119,34 +121,20 @@ h2 {
 	border-top: 1px solid black;
 	border-right: 1px solid black;
 }
-
-
-.box5 {
-	width: 180px;
-	height: 100px;
-	display: inline-block;
-	background-color: rgb(204,204,204);
-	margin: 10px;
+.box_border_1 {
 	border-bottom: 1px solid black;
 	border-right: 1px solid black;
+	font-size: 0px;
 }
-.box6 {
-	width: 180px;
-	height: 100px;
-	display: inline-block;
-	background-color: rgb(204,204,204);
-	margin: 10px;
+.box_border_2 {
 	border-bottom: 1px solid black;
 	border-right: 1px solid black;
 	border-left: 1px solid black;
-} 
-.box7 {
-	width: 180px;
-	height: 100px;
-	display: inline-block;
-	background-color: rgb(204,204,204);
-	margin: 10px;
+	font-size: 0px;
+
+}
+.box_border_3 {
 	border-bottom: 1px solid black;
-	border-right: 1px solid black;
 	border-left: 1px solid black;
+	font-size: 0px;
 }
